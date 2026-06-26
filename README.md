@@ -1,5 +1,1 @@
-# Akhila Tadepalli Resume
-
-Hi! I am a CSE student interested in Java, SQL, and Power BI.  
-
-You can download my resume here: [Resume.pdf](Resume.pdf)
+I'm Akhila Tadepalli, an aspiring Data Analyst and Computer Science student passionate about data analytics, visualization, and business intelligence. I enjoy solving real-world problems using SQL, Python, Excel, and Power BI, and I'm continuously improving my analytical and technical skills through hands-on projects. I'm seeking opportunities to learn, grow, and contribute to data-driven decision-making.
